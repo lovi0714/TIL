@@ -78,3 +78,6 @@ foods.remove(0); // 인덱스로 삭제
 list1.addAll(list2); // list2의 내용을 list1에 전부 추가
 ```
 
+
+참고한 페이지
+> https://pongic.tistory.com/3 
