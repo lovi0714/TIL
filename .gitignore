@@ -1,0 +1,9 @@
+# OS 잡파일
+.DS_Store
+Thumbs.db
+
+# Obsidian 로컬 상태/캐시
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
